@@ -33,4 +33,12 @@ sudo apt install python3-pip
 pip install networkx
 ```
 
-5. 
+5. Install pplpy:
+```
+sudo apt-get install m4
+sudo apt-get install libgmp-dev libmpfr-dev libmpc-dev libppl-dev cython
+pip install cysignals --user
+pip install gmpy2 --pre --user
+pip install pplpy
+```
+
