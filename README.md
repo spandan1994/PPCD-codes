@@ -19,10 +19,10 @@ sudo update-alternatives --config python3
 Now type 2 and hit enter to select Python3.9 as default. Test the current version of Python using `python3 -V`.
 
 2. Install latest Python packages:
-`sudo apt-get install python3.9-dev`
+```sudo apt-get install python3.9-dev```
 
 3. Install pip:
-`sudo apt install python3-pip
+```sudo apt install python3-pip```
 
 4. Install NetworkX
-`pip install networkx`
+```pip install networkx```
