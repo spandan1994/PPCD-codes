@@ -42,3 +42,11 @@ pip install gmpy2 --pre --user
 pip install pplpy
 ```
 
+6. Install Matplotlib:
+```
+sudo apt-get install libjpeg-dev zlib1g-dev
+pip install -U Pillow
+pip install matplotlib
+```
+
+
